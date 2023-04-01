@@ -1,13 +1,14 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Saige Rechenberger's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Saige Rechenberger
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+Bakersfield, CA
+|<a href="rec17001@byui.edu">rec17001@byui.edu</a>
+| <a href="www.linkedin.com/in/saige-rechenberger ">LinkedIn</a>
+| (610)-533-5579 
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -15,74 +16,63 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`September 2017- Present`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.5 GPA with a Major in Accounting and a Minor in Data Science
+- Member of Accounting Society
 
+## Skills
+- Microsoft Office: Excel and VBA
+- Programming: C++, JavaScript, SQL, Python, R Sudio
 
-## Related Experience
+## Professional Experience
 
-### Internships
+### CBIZ
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`April 2022 - Present`
+__Forensic and Litigation Accountant__, Bakersfield, CA
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Helped compile and input data received from clients into the company’s databases.
+- Analyzed tax returns and financial statements received from clients to create book valuations, account recaps, SADs, and summaries.
+- Gathered and prepared documents for court.
 
-### Data Science Lead
+### Brigham Young University - Idaho
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`January 2022 - April 2022`
+__Contract Assistant__, Rexburg, ID
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Led in the communication between various parties to assure all contracts were renewed in a timely manner.
+- Amended current contract information inputted into the database to match the new invoices received.
+- Reviewed and renewed current insurance certificates between various vendors
+- Created and developed programs to allow for the purchasing department to function more smoothly
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+## Volunteer Work
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+### Brigham Young University – Idaho
 
-### Data Science Consulting Team
+`September 2021 - December 2021`
+__Heber J. Grant Mentor Program__
 
-`January 2027 - April 2027`
-__Imagine Learning__
+- Promoted in 2 weeks to help provide support to the supervisor by acting as a district secretary during all meetings and to keep track of all important events
+- Acted as a district assistant for 3-5 mentors and provided support for mentors as they work with their mentees
+- Acted as a personal mentor over new students and assisted them in creating and achieving all of their goals during their first semesters at university
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+`September 2021 - December 2021`
+__Scribe for Financial Accounting Course__, 
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+- Assisted the professor by recording all notes and examples that were given in class and transferring everything onto an accessible document for the entire class to access 
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+The Church of Jesus CHrist of Latter-Day Saints
+`September 2021 - December 2021`
+__Representative in Romania__,
 
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+- Provided leadership, training, and supervision for 12 other volunteers
+- Acted as a communications specialist by making commercials and videos
+- Spent 65-75 hours each week, planning 15 lessons a week and communicating new ideas to Romanians in Romanian
+- Adapted to an entirely different culture and connected with the local people through strong interpersonal skills
+- Spent 10-15 hours a week teaching all levels of English to native Romanian speakers
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: March 2023 -->
